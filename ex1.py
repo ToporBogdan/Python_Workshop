@@ -3,8 +3,8 @@ from calendar import c
 from re import X
 
 
-xglobal = 2
-yglobal = 1021
+# xglobal = 2
+# yglobal = 1021
 
 def switch(a, b):
     c = a
@@ -12,9 +12,9 @@ def switch(a, b):
     b = c
     print("a:" + str(a), "b:" + str(b))    
 
-# switch(10, 15)
-switch(xglobal, yglobal) 
-print("a:" + str(xglobal), "b:" + str(yglobal))    
+# # switch(10, 15)
+# switch(xglobal, yglobal) 
+# print("a:" + str(xglobal), "b:" + str(yglobal))    
 
 
 
