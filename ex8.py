@@ -10,6 +10,8 @@ Pentru numărul 12345 se va afișa:
 12345
 
 Hint: Gândește-te cum rezolvi problema pentru un string, apoi extinzi la cifre ale unui număr.
+
+b) fa ex si recursiv
 '''
 
 numar = 123456789
