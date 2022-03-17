@@ -23,3 +23,4 @@ dick = {
     "Mertz": [("Motor", 1.4), ("Culoare", "Galben"), ("Clima", True)]
 }
 pprint(dick)
+print("test")
